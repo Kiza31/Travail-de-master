@@ -8,7 +8,7 @@ Programme de collecte d'images utilisant les APIs de twitter, version de python 
 
 Avant de commencer :
 1. Installer tweepy
-2. copier les différents dossiers et fichiers et s'assurer qu'ils soient vides
+2. Créer les différents dossiers et fichiers visibles dans l'image "à créer avant de commencer.png"
 3. Ecrire les mots-clés à rechercher dans le fichier hashtag.py
 4. Enregistrer les clés d'identification à twitter developer dans twitter_credentials.txt
 5. Enregistrer les dates de début et de fin de l'événements dans le fichier dates.txt
