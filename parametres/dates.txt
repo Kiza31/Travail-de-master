@@ -1,0 +1,3 @@
+Entrer les dates de début et de fin de la période souhaitée en remplacant AAAA-MM-JJ par la date
+Date de début : AAAA-MM-JJ
+Date de fin : AAAA-MM-JJ
