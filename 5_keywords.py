@@ -147,7 +147,7 @@ for i in hashtaglist :
                                                 url_write.write(url + "\n")
                                                 str_n = str(n)
                                                 print ("OK")
-                                                storage = "resultats/images_keywprd_2/" + str_id + "_" + str_n + ".jpg"
+                                                storage = "resultats/images_keyword_2/" + str_id + "_" + str_n + ".jpg"
                                                 urllib.request.urlretrieve(url, storage)
                                                 print ("Nouvelle image enregistrée")
 

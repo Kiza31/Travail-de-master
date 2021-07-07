@@ -9,7 +9,7 @@
 liste à remplir sous la forme : ["un mot clé", "un deuxième", "..."]
 '''
 
-HASH_TAG_LIST = ["Trump"]
+HASH_TAG_LIST = ["soutenance Kim", "#SoutenanceMaster21"]
 
 '''
 ne tient pas compte des # ni des @ devant le mot clé
